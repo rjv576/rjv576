@@ -18,7 +18,8 @@ API y backend web para manejar deudas y gastos con autenticación básica.
 
 ## 🔗 Contacto
 📧 ronaldjuma576@gmail.com  
-🔗 LinkedIn: <tu-link>
+🔗 LinkedIn: www.linkedin.com/in/rjv576
+
 
 ###
 
