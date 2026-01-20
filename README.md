@@ -1,4 +1,24 @@
-<h2 align="left">Hi 👋! My is Ronald Juma and I'm a Programmer, from PR</h2>
+<!-- <h2 align="left">Hi 👋! My is Ronald Juma and I'm a Programmer, from PR</h2> -->
+# 👋 ¡Hola! Soy Ronald Juma  
+Backend Developer (Python | Django) desde Puerto Rico 🇵🇷
+
+Me apasiona construir APIs, automatización y soluciones backend escalables.
+
+## 🛠 Tecnologías
+Python · Django · Django REST Framework · SQL · Git · Linux
+
+## 🚀 Proyectos Destacados
+### 📌 Inventario API
+Backend API para inventario con Django y SQLite. CRUD completo y autenticación.
+
+### 📌 Debt & Expense Manager
+API y backend web para manejar deudas y gastos con autenticación básica.
+
+...
+
+## 🔗 Contacto
+📧 ronaldjuma576@gmail.com  
+🔗 LinkedIn: <tu-link>
 
 ###
 
